@@ -85,3 +85,54 @@ Use Case Diagrams.
         alx-booking-uc.png
 
         [link for alx-booking-uc.png](https://drive.google.com/file/d/1_JVEbvLmMM2keKaeoCZYLIBl72AIKPXk/view?usp=sharing)
+
+Acceptance Criteria.
+
+    What is Acceptance Criteria?
+
+        Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+
+    How to Define Acceptance Criteria:
+
+    Be specific and measurable.
+    Include functional and non-functional aspects.
+    Example for Booking System: “Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+    Benefits of Acceptance Criteria:
+
+    Ensure all parties have a clear understanding of feature requirements.
+    Provide a basis for testing and validation.
+    Help in maintaining quality and meeting user expectations.
+
+Example: Acceptance Criteria for Checkout Feature
+
+    Feature: Checkout
+
+    Acceptance Criteria:
+
+        User can review booking summary
+
+        The user can see the booking summary, including property details, dates, total price, and cancellation policy.
+
+        Payment options are displayed
+
+        The system shows at least two payment methods (e.g., credit card, PayPal).
+
+        Form validation is applied
+
+        The system validates all required fields (e.g., card number, expiration date) and shows error messages if invalid.
+
+        Successful payment triggers booking confirmation
+
+        Once the payment is successful, the system marks the booking as “confirmed” in the database.
+
+        Confirmation email is sent within 2 minutes
+
+        The system sends a confirmation email with booking details to the user’s registered email address within 2 minutes of successful payment.
+
+        Handle failed payments gracefully
+
+        If payment fails, the user sees a clear error message and can retry or change payment method.
+
+        Mobile responsiveness
+
+        The checkout process works smoothly on both desktop and mobile devices.
