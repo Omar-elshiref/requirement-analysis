@@ -82,4 +82,6 @@ Use Case Diagrams.
         Help in identifying and organizing system requirements.
         Facilitate communication among stakeholders and development team.
 
+        alx-booking-uc.png
+
         [link for alx-booking-uc.png](https://drive.google.com/file/d/1_JVEbvLmMM2keKaeoCZYLIBl72AIKPXk/view?usp=sharing)
